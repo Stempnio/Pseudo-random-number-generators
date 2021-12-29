@@ -1,6 +1,6 @@
 from scipy.special import comb
 from myImports import *
-import B_generator
+import bernoulli_generator
 
 
 def drawNumbers(n, a, m, c, x0, p, numberOfBernoulliTrials):
