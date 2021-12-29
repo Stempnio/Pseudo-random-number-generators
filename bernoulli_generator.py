@@ -2,7 +2,7 @@ import numpy as np
 
 import ChiSquare
 from myImports import *
-import J_generator
+import uniform_generator
 
 def drawNumbers(n, a, m, c, x0, p):
     numbersZeroOne = J_generator.drawNumbers(n, a, m, c, x0)
