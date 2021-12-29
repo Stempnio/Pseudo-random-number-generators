@@ -1,5 +1,5 @@
 from myImports import *
-import J_generator
+import uniform_generator
 
 def drawNumbers(n,a,m,c,x0, _lambda):
     randomNums = J_generator.drawNumbers(n*n, a, m, c, x0)
