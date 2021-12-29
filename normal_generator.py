@@ -1,5 +1,5 @@
 from myImports import *
-import J_generator
+import uniform_generator
 from scipy.stats import norm
 
 def drawNumbers(n, a, m, c, x0):
