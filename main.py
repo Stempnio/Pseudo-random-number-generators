@@ -1,11 +1,11 @@
 from myImports import *
-import D_generator
-import N_generator
-import P_generator
-import W_generator
+import binomial_generator
+import normal_generator
+import poisson_generator
+import exponential_generator
 import G_generator
-import J_generator
-import B_generator
+import uniform_generator
+import bernoulli_generator
 
 
 np.set_printoptions(suppress=True)
